@@ -29,3 +29,5 @@ If you want more real-time communication, you can visit our community on [Slack]
 https://fonts.google.com/specimen/Bitter (Headings)
 https://fonts.google.com/specimen/Merriweather (Body)
 # arclight-starter
+The End Result:
+![Screenshot 2022-05-15 at 11-18-12 Arclight](https://user-images.githubusercontent.com/82536545/168465848-97b597d7-8ad6-404c-8e19-6265aae340b2.png)
